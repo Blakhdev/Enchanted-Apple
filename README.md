@@ -24,7 +24,7 @@ A simple Minecraft Forge mod that adds the **Enchanted Apple** as a new step bet
 
 Found a bug or have a suggestion?
 
-Please open an issue on the [GitHub Issue Tracker](https://github.com/Blakhdev/EnchantedApple/issues)
+Please open an issue on the [GitHub Issue Tracker](https://github.com/Blakhdev/Enchanted-Apple/issues)
 
 # Download
 
