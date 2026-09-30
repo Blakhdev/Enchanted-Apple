@@ -2,6 +2,8 @@
 
 A simple Minecraft Forge mod that adds the **Enchanted Apple** as a new step between the Apple and the Golden Apple.
 
+
+
 # Features
 
 * Adds the Enchanted Apple
@@ -27,9 +29,9 @@ Please open an issue on the [GitHub Issue Tracker](https://github.com/Blakhdev/E
 
 # Download
 
-[![CurseForge downloads](https://www.modpackindex.com/badge/mod/90197/enchanted-apple/downloads-curseforge.svg?style=plastic)](https://www.curseforge.com/minecraft/mc-mods/enchantedapple)
+[![CurseForge Enchanted Apple](https://img.shields.io/badge/CurseForge-Enchanted%20Apple-orange?logo=curseforge&logoColor=orange)](https://www.curseforge.com/minecraft/mc-mods/enchantedapple)
 
-[![Modrinth downloads](https://www.modpackindex.com/badge/mod/90197/enchanted-apple/downloads-modrinth.svg?style=plastic)](https://modrinth.com/mod/enchanted-apple)
+[![Modrinth Enchanted Apple](https://img.shields.io/badge/Modrinth-Enchanted%20Apple-1bd96a?logo=modrinth&logoColor=lime)](https://modrinth.com/mod/enchanted-apple)
 
 # 📜 License
 
