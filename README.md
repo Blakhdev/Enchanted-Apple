@@ -13,14 +13,11 @@ A simple Minecraft Forge mod that adds the **Enchanted Apple** as a new step bet
 
 # Supported Versions
 
-* Minecraft 1.20.1
-* Minecraft 1.20.2
-* Minecraft 1.20.3
-* Minecraft 1.20.4
+[![Supports Minecraft 1.20.1 – 1.20.4](https://www.modpackindex.com/badge/mod/90197/enchanted-apple/version.svg?style=plastic)](https://www.curseforge.com/minecraft/mc-mods/enchantedapple/files/all?page=1&pageSize=20&showAlphaFiles=show)
 
 **Mod Loader:** Forge
 
-[![Updated 2d ago](https://www.modpackindex.com/badge/mod/90197/enchanted-apple/updated.svg)](https://www.curseforge.com/minecraft/mc-mods/enchantedapple/files/all?page=1&pageSize=20&showAlphaFiles=show)
+[![Updated 2d ago](https://www.modpackindex.com/badge/mod/90197/enchanted-apple/updated.svg?style=plastic)](https://www.curseforge.com/minecraft/mc-mods/enchantedapple/files/all?page=1&pageSize=20&showAlphaFiles=show)
 
 # Issues
 
@@ -30,7 +27,9 @@ Please open an issue on the [GitHub Issue Tracker](https://github.com/Blakhdev/E
 
 # Download
 
-[![CurseForge downloads](https://www.modpackindex.com/badge/mod/90197/enchanted-apple/downloads-curseforge.svg)](https://www.curseforge.com/minecraft/mc-mods/enchantedapple)  [![Modrinth downloads](https://www.modpackindex.com/badge/mod/90197/enchanted-apple/downloads-modrinth.svg)](https://modrinth.com/mod/enchanted-apple)
+[![CurseForge downloads](https://www.modpackindex.com/badge/mod/90197/enchanted-apple/downloads-curseforge.svg?style=plastic)](https://www.curseforge.com/minecraft/mc-mods/enchantedapple)
+
+[![Modrinth downloads](https://www.modpackindex.com/badge/mod/90197/enchanted-apple/downloads-modrinth.svg?style=plastic)](https://modrinth.com/mod/enchanted-apple)
 
 # 📜 License
 
