@@ -17,7 +17,7 @@ A simple Minecraft Forge mod that adds the **Enchanted Apple** as a new step bet
 
 **Mod Loader:** Forge
 
-[![Updated 2d ago](https://www.modpackindex.com/badge/mod/90197/enchanted-apple/updated.svg?style=plastic)](https://www.curseforge.com/minecraft/mc-mods/enchantedapple/files/all?page=1&pageSize=20&showAlphaFiles=show)
+[![Updated 2d ago](https://www.modpackindex.com/badge/mod/90197/enchanted-apple/updated.svg?style=plastic)](https://www.curseforge.com/minecraft/mc-mods/enchantedapple)
 
 # Issues
 
