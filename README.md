@@ -28,7 +28,7 @@ Please open an issue on the [GitHub Issue Tracker](https://github.com/Blakhdev/E
 
 # Download
 
-The mod is available on [![CurseForge downloads](https://www.modpackindex.com/badge/mod/90197/enchanted-apple/downloads-curseforge.svg)](https://www.curseforge.com/minecraft/mc-mods/enchantedapple), [![Modrinth downloads](https://www.modpackindex.com/badge/mod/90197/enchanted-apple/downloads-modrinth.svg)](https://www.curseforge.com/minecraft/mc-mods/enchantedapple)
+The mod is available on [![CurseForge downloads](https://www.modpackindex.com/badge/mod/90197/enchanted-apple/downloads-curseforge.svg)](https://www.curseforge.com/minecraft/mc-mods/enchantedapple) [![Modrinth downloads](https://www.modpackindex.com/badge/mod/90197/enchanted-apple/downloads-modrinth.svg)](https://modrinth.com/mod/enchanted-apple)
 
 # 📜 License
 
