@@ -11,7 +11,6 @@ A simple Minecraft Forge mod that adds the **Enchanted Apple** as a new step bet
 * Can be obtained from Cleric villagers
 * Can be dropped by Witches
 * Can rarely drop from Oak and Dark Oak leaves
-* Cannot be crafted
 
 # Supported Versions
 
